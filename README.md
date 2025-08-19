@@ -66,7 +66,69 @@ A consumer goods company with uneven product performance could use this dashboar
 - Allocate resources to strengthen weaker geographies and channels.
 
 ---
+# 2) Second Dashboard – Financial Report: Profitability and Key Influencers
+# Financial Report – Profitability and Key Influencers
 
+## Introduction
+This dashboard focuses on profitability, sales, and discount analysis.  
+Built in **Power BI**, it integrates KPI tracking with an AI-driven Key Influencers visual to identify factors impacting profit.
+
+---
+
+## Dataset
+- **Source**: Public e-commerce dataset (non-confidential)  
+- **Scope**: Sales transactions, discounts, profit, and pricing variables  
+- **Purpose**: To identify profitability drivers and areas where discounts or pricing strategies affect margins
+
+---
+
+## Objectives
+- Track overall financial performance through key metrics  
+- Understand the impact of discounts and pricing on profitability  
+- Use machine learning-powered visualizations to identify key influencers of profit  
+- Support executives in making data-driven pricing and discounting decisions  
+
+---
+
+## Dashboard Features and Graph Analysis
+
+### 1. KPI Tiles
+- **Total Sales**: $118.73M  
+- **Total Profit**: $16.89M  
+- **Total Discount**: $9.21M  
+- These high-level metrics summarize the organization’s financial performance.
+
+### 2. Key Influencers Visual
+- Identifies drivers that impact **profit increases**.  
+- **Discounts greater than 55,387** significantly increase average profit by $51.47K.  
+- A **unit price increase of ~137** also boosts profit by $35.92K.  
+- Insight: While discounts typically reduce profit, in this dataset, large discounts correlate with higher sales volumes, offsetting margin erosion.
+
+### 3. Bar Chart – Profit by Discount Range
+- Shows profit distribution across different discount levels.  
+- Profit rises sharply when discounts exceed 55,000, confirming the influencers' analysis.  
+- Business implication: Strategic high-volume discounting can increase profitability, but requires careful balance.
+
+---
+
+## Results
+- The business generates strong sales ($118.73M) but relatively low profit margins ($16.89M).  
+- Discounts play a **critical role in driving profit**, with large discount thresholds yielding significant gains.  
+- Pricing adjustments also show potential for margin improvement.  
+
+---
+
+## Real-World Application
+This dashboard is directly applicable in:  
+- **Retail and E-commerce**: Optimizing discounting strategies while protecting profitability.  
+- **Wholesale and Distribution**: Identifying the trade-off between volume discounts and profit margins.  
+- **Consumer Electronics / Consumer Goods**: Balancing promotional discounts with profitability goals.
+
+**Example Business Problem Solved:**  
+A retailer struggling with declining profit margins could use this dashboard to:  
+- Identify the tipping point where discounts start increasing profit.  
+- Apply targeted pricing strategies to boost margins.  
+- Justify promotional campaigns with clear ROI visibility.  
 ## File Structure
 
 
@@ -80,3 +142,5 @@ A consumer goods company with uneven product performance could use this dashboar
 ## Preview
 [Financial]
 <img width="1536" height="889" alt="Financial report" src="https://github.com/user-attachments/assets/d84f472b-4ad7-42ea-809f-33330e9f3486" />
+<img width="1526" height="894" alt="Financial report 2" src="https://github.com/user-attachments/assets/ab01591c-c0e5-4d98-9d70-ce783c357bcb" />
+
