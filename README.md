@@ -144,3 +144,7 @@ A retailer struggling with declining profit margins could use this dashboard to:
 <img width="1536" height="889" alt="Financial report" src="https://github.com/user-attachments/assets/d84f472b-4ad7-42ea-809f-33330e9f3486" />
 <img width="1526" height="894" alt="Financial report 2" src="https://github.com/user-attachments/assets/ab01591c-c0e5-4d98-9d70-ce783c357bcb" />
 
+[another design-same dataset]
+<img width="1528" height="902" alt="image" src="https://github.com/user-attachments/assets/0f0abf29-bbed-43e1-a306-87365a3d8fa9" />
+
+
