@@ -66,7 +66,7 @@ A consumer goods company with uneven product performance could use this dashboar
 - Allocate resources to strengthen weaker geographies and channels.
 
 ---
-# 2) Second Dashboard – Financial Report: Profitability and Key Influencers
+# 2) Second Dashboard 
 # Financial Report – Profitability and Key Influencers
 
 ## Introduction
