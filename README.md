@@ -1,4 +1,4 @@
-# First Dashboard – Financial Report: Product and Channel Analysis
+# First Dashboard 
 # Financial Report – Product and Channel Analysis
 
 ## Introduction
